@@ -1,10 +1,3 @@
-
-<plugin>
-<title>[COLOR ffff0000][B]StreamHub[/B][/COLOR]</title>
-<link>hh</link>
-<thumbnail>https://s23.postimg.org/65w4d25l7/icon.png</thumbnail>
-</plugin>
-
 <plugin>
 <title>[COLOR ffff0000][B]M[/COLOR][COLOR white]ovies[/COLOR][/B]</title>
 <link>plugin://plugin.video.streamhub/?action=movieNavigator</link>
